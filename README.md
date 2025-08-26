@@ -3,7 +3,7 @@ ___David Paredes, Nicoll Rincon, Daniel Arias___
 ---
 
 ## _OBJETIVOS_
-___1. MEJORAR TIEMPOS DE RESPUSTA___
+___1. MEJORAR TIEMPOS DE RESPUESTA___
 - Reducir el tiempo promedio de respuesta en canales digitales (chat y correo) a menos de 5 minutos durante el primer año de operaciones en Centroamérica.
 ----
 ___2. CAPACITACIÓN DEL EQUIPO LOCAL___
