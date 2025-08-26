@@ -18,3 +18,5 @@ ___DISPONIBILIDAD MULTICANAL___
 ___RETENCION DE CLIENTES___
 - Lograr que almenos el 70% de los usuarios que intetactuan con atencion al cliente realicen una segunda transaccion en la plataforma dentro de los primeros 3 meses posteriores a la expancion.
 ----
+# MARKETING DIGITAL
+## OBJETIVOS
