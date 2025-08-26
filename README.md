@@ -1,36 +1,36 @@
-# __ATENCION AL CLIENTE__
+# __ATENCIÓN AL CLIENTE__
 ___David Paredes, Nicoll Rincon, Daniel Arias___
 ---
 
 ## _OBJETIVOS_
-___MEJORAR TIEMPOS DE RESPUSTA___
-- Reducir el tiempo promedio de respuesta en canales digitales (chat y correo) a menos de mintos durante el primer año de operacion en centroamerica.
+___1. MEJORAR TIEMPOS DE RESPUSTA___
+- Reducir el tiempo promedio de respuesta en canales digitales (chat y correo) a menos de 5 minutos durante el primer año de operaciones en Centroamérica.
 ----
-___CAPACITACION DEL EQUIPO LOCAL___
-- Implementar un programa de capacitacion en atencion al cliente para el 100% del personal contratado en centroamerica en los primeros 6 meses.
+___2. CAPACITACIÓN DEL EQUIPO LOCAL___
+- Implementar un programa de capacitación en atención al cliente para el 100% del personal contratado en Centroamérica dentro de los primeros 6 meses de operación.
 ----
-___SATISFACCION AL CLIENTE___
-- Alcazar un puntale del 90% de satisfaccion en encuestas post-servicio al finalizar el primer año de operaciones en el nuevo mercado.
+___3. SATISFACCIÓN AL CLIENTE___
+- Alcanzar un 90% de satisfacción del cliente en encuestas post-servicio al finalizar el primer año de operaciones en Centroamérica.
 ----
-___DISPONIBILIDAD MULTICANAL___
-- Habilitar y garantizar la atencion al cliente en almenos 3 canales(chat web, whatsapp, y telefono) antes del lanzamiento oficial en centroamerica.
+___4. DISPONIBILIDAD MULTICANAL___
+- Habilitar y garantizar la atención al cliente en mínimo 3 canales (chat web, WhatsApp y teléfono) antes del lanzamiento oficial en Centroamérica.
 ----
-___RETENCION DE CLIENTES___
-- Lograr que almenos el 70% de los usuarios que intetactuan con atencion al cliente realicen una segunda transaccion en la plataforma dentro de los primeros 3 meses posteriores a la expancion.
+___5. RETENCIÓN DE CLIENTES___
+- Lograr que al menos el 70% de los usuarios que interactúen con atención al cliente realicen una segunda transacción en la plataforma dentro de los primeros 3 meses posteriores a la expansión.
 ----
 # MARKETING DIGITAL
 ## OBJETIVOS
-___INCREMEMTAR EL RECONOCIMIENTO DE LA MARCA___
-- En el mercado centroamericano en un 30% en los proximos 6 meses, mediante campañas en redes sociales(facebook, instagram, tiktok, y linkedln).
+___1. INCREMEMTAR EL RECONOCIMIENTO DE LA MARCA___
+- Incrementar el reconocimiento de la marca en el mercado centroamericano en un 30% en los próximos 6 meses, mediante campañas en redes sociales (Facebook, Instagram, TikTok y LinkedIn).
 ----
-___CAPTAR ALMENOS 10.000 NUEVOS LEADS CALIFICADOS___
-- Utilizando estrategias  de marketing, contenido ducativo, financiero y formilarios de registro.
+___2. CAPTAR LEADS CALIFICADOS___
+- Captar al menos 10,000 nuevos leads calificados en los próximos 12 meses, mediante estrategias de marketing digital, contenido educativo-financiero y formularios de registro.
 ----
-___OPTIMIZAR LA PRESENCIA DIGITAL DE LA MARCA___
-- Por medio de campañas segmentadas por pais, alcanzar un aumento del 40% en intercciones (likes, shares, comentarios) en redes sociales en un periodo de 9 meses.
+___3. OPTIMIZAR LA PRESENCIA DIGITAL___
+- Aumentar en un 40% las interacciones (likes, shares, comentarios) en redes sociales en un plazo de 9 meses, mediante campañas segmentadas por país.
 ----
-___ADAPTAR LAS CAMPAÑAS PUBLICITARIAS___
-- En un plazo maximo de 3 meses adaptar las campañas al idioma, cultura y contexto de cada pais, creando contenido localizado y usando influencers y figuras locales.
+___4. ADAPTAR LAS CAMPAÑAS PUBLICITARIAS___
+- Adaptar en un plazo máximo de 3 meses todas las campañas publicitarias al idioma, cultura y contexto de cada país, creando contenido localizado y utilizando influencers y figuras locales.
 ----
-___AUMETAR EL POSCICIONAMIENTO EN BUSCADORES___
-- Lograr aprecer en el top 5 de resultados en buscadores (SEO/SEM), para 10 palabras clave relcionadas con "fintech" y "servicios financieros digitales" en español en los proximos 9 meses.
+___5. POSCICIONAMIENTO EN BUSCADORES___
+- Lograr posicionar la marca en el top 5 de resultados en buscadores (SEO/SEM) para al menos 10 palabras clave relacionadas con “fintech” y “servicios financieros digitales” en los próximos 9 meses.
