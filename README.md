@@ -20,3 +20,17 @@ ___RETENCION DE CLIENTES___
 ----
 # MARKETING DIGITAL
 ## OBJETIVOS
+___INCREMEMTAR EL RECONOCIMIENTO DE LA MARCA___
+- En el mercado centroamericano en un 30% en los proximos 6 meses, mediante campañas en redes sociales(facebook, instagram, tiktok, y linkedln).
+----
+___CAPTAR ALMENOS 10.000 NUEVOS LEADS CALIFICADOS___
+- Utilizando estrategias  de marketing, contenido ducativo, financiero y formilarios de registro.
+----
+___OPTIMIZAR LA PRESENCIA DIGITAL DE LA MARCA___
+- Por medio de campañas segmentadas por pais, alcanzar un aumento del 40% en intercciones (likes, shares, comentarios) en redes sociales en un periodo de 9 meses.
+----
+___ADAPTAR LAS CAMPAÑAS PUBLICITARIAS___
+- En un plazo maximo de 3 meses adaptar las campañas al idioma, cultura y contexto de cada pais, creando contenido localizado y usando influencers y figuras locales.
+----
+___AUMETAR EL POSCICIONAMIENTO EN BUSCADORES___
+- Lograr aprecer en el top 5 de resultados en buscadores (SEO/SEM), para 10 palabras clave relcionadas con "fintech" y "servicios financieros digitales" en español en los proximos 9 meses.
