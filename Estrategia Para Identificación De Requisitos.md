@@ -81,19 +81,19 @@ Actores clave: <span style="color:yellow">🟨Estudiantes, 🟨instituciones, �
 
 🟨 <span style="color:yellow">Especialista en Cumplimiento Normativo (ECN)</span>
 
-<span style="color:green">Publicar</span> información veraz, completa, no discriminatoria.
+🟩<span style="color:green">Publicar</span> información veraz, completa, no discriminatoria.
 
-<span style="color:green">Registrar</span> fechas claras y enlace a bases legales.
+🟩<span style="color:green">Registrar</span> fechas claras y enlace a bases legales.
 
-<span style="color:green">Aprobar</span> ofertas mediante moderación.
+🟩<span style="color:green">Aprobar</span> ofertas mediante moderación.
 
-<span style="color:green">Mantener</span> auditoría de cambios.
+🟩<span style="color:green">Mantener</span> auditoría de cambios.
 
-<span style="color:green">Permitir</span> control ARCO (acceso, rectificación, eliminación).
+🟩<span style="color:green">Permitir</span> control ARCO (acceso, rectificación, eliminación).
 
-<span style="color:green">Solicitar</span> consentimiento explícito en cada postulación.
+🟩<span style="color:green">Solicitar</span> consentimiento explícito en cada postulación.
 
-<span style="color:green">Alertar</span> sobre vencimiento de ofertas.
+🟩<span style="color:green">Alertar</span> sobre vencimiento de ofertas.
 
 No funcionales:
 
@@ -121,3 +121,4 @@ Restricciones:
 
 
 Actores: <span style="color:yellow">Estudiantes, instituciones, administradores</span>.
+
